@@ -10,9 +10,9 @@
 </ul><br/>
 <h2>✍ 프로젝트 UI</h2>
 index
-<img src="/clone_login_page/images/index.png">
-modal
-<img src="/clone_login_page/images/modal.png">
+<img src="images/index.png"></br></br>
+modal</br>
+<img src="images/modal.png">
 <h2>history</h2>
 <ol>
 <li>24.08.26 마크업 / 스타일 빌딩</li>
